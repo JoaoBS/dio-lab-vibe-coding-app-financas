@@ -1,6 +1,6 @@
 # 💸 App de Organização de Finanças Pessoais FincChat com Vibe Coding
 
-Esse foi projeto desenvolvido como um desafio de projeto da DIO.
+Este é um projeto desenvolvido como um desafio de projeto da DIO.
 
 ## PRD gerado no Copilot Web:
 
